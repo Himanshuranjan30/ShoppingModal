@@ -1,4 +1,4 @@
-# projq2
+# Shopping Modal
 
 A new Flutter project.
 
